@@ -1,0 +1,19 @@
+header{
+    background-color: skyblue;
+    text-align: center;
+}
+
+
+figure{
+    display: inline-block;
+}
+
+img{
+    height: 15%;
+    width: 30%;
+    display: inline-block;
+}
+
+#about{
+    background-color:tomato;
+}
